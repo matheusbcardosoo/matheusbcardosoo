@@ -5,8 +5,8 @@
   <a href="https://www.instagram.com/0matheusz_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
  
-- 🔭 Atualmente eu trabalho com Front-end
-- 🌱 Atualmente estou aprendendo mais sobre HTML/CSS
+- 🔭 Atualmente eu trabalho com Back-end
+- 🌱 Atualmente estou aprendendo mais sobre C, Java e PHP.
 - 😄 Pronomes: Ele/Dele
 ##
   <div>
