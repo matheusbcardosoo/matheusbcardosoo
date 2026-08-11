@@ -12,8 +12,7 @@
   <div>
     <a href="https://github.com/matheusbcardosoo">
     <img heigth="30%" src ="https://github-readme-stats.vercel.app/api?username=matheusbcardosoo&theme=gotham&show_icons=true">
-    <!-- vvv USAR DEPOIS vvv -->
-    <!--<img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbcardosoo&layout=compact&langs_count=7&theme=gotham"/>-->
+    <img height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbcardosoo&layout=compact&langs_count=7&theme=gotham"/>
   </div>
   
 ## Linguagens e tecnologias que utilizo com frequência
